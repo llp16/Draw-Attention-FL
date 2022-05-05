@@ -24,15 +24,3 @@ python manager.py submit configs/har/conf_oort.yml
 
 4. The training results would be print in the log file, the path can be specified in config file.
 
-
-# Notes
-please cite our paper if you think the source codes are useful in your research project.
-```bibtex
-@inproceedings{PyramidFL_MobiCom22,
-    author = {Li, Chenning and Zeng, Xiao and Zhang, Mi and Cao, Zhichao},
-    title = {PyramidFL: Fine-grained Data and System Heterogeneity-aware Client Selection for Efficient Federated Learning},
-    year = {2022},
-    booktitle = {Proceedings of ACM MobiCom},
-}
-```
-
